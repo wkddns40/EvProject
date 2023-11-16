@@ -16,7 +16,7 @@ import Tooltip from './ToolTip';
 import ButtonGroup from './ButtonGroup';
 // import { useReducer } from 'react';
 
-MapboxGL.accessToken = 'pk.eyJ1IjoiZGphbmdib2dvIiwiYSI6ImNsZjVpMDVzYjBnZW8zdnMya3o4eHgxODIifQ.3OtW9iWW73VPo1RnnzRwDQ';
+MapboxGL.accessToken = '';
 
 const DATA_URL = 'http://v2cloud.iptime.org:5000/charger';
 
